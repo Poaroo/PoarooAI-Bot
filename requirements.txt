@@ -4,3 +4,4 @@ pypdf==5.1.0
 Pillow>=10.0.0
 pytz
 requests
+Pillow>=10.0.0
